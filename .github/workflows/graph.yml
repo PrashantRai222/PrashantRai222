@@ -1,0 +1,28 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: Ashutosh00710/github-readme-activity-graph@main
+        with:
+          username: ${{ github.repository_owner }}
+          output: profile/graph.svg
+
+      - name: Commit graph
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/graph.svg
+          git commit -m "Update activity graph" || exit 0
+          git push
