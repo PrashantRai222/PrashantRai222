@@ -1,35 +1,59 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
+<div align="center">
 
-<p align="center">
-  CSE Student • Web Developer • Builder
-</p>
+# 👋 Hi, I'm Prashant Rai
 
-<p align="center">
-  Currently learning React ⚛️
-</p>
+### 💻 CSE Student • Web Developer • Builder
 
----
+I build interactive web experiences and I'm currently
+learning React and modern full-stack development.
 
-## 🚀 Projects
+<br>
 
-🎮 Dashing Detective  
-🌐 LifeGrid  
-📰 Manipulated History  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I'm Building
 
-<p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/languages.svg" width="48%" />
-</p>
+<table>
+<tr>
 
-## 🔥 Activity
+<td width="33%" align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PrashantRai222&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
-</p>
+### 🎮 Dashing Detective
+
+Interactive detective mystery game.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 LifeGrid
+
+A modern life/productivity web application.
+
+</td>
+
+<td width="33%" align="center">
+
+### 📰 Manipulated History
+
+News & blogging platform.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+JavaScript        ███████████████░░░  Learning
+React             ███████████░░░░░░░  Learning
+Node.js           ██████████░░░░░░░░  Learning
+MongoDB           ██████████░░░░░░░░  Learning
+Git & GitHub      ███████████████░░░  Building
