@@ -2,58 +2,71 @@
 
 # 👋 Hi, I'm Prashant Rai
 
-### 💻 CSE Student • Web Developer • Builder
+### CSE Student • Web Developer • Builder
 
-I build interactive web experiences and I'm currently
-learning React and modern full-stack development.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
+Building things, breaking things, and learning how they work.
 
 </div>
 
 ---
 
-## 🚀 What I'm Building
+## ⚡ About Me
 
-<table>
-<tr>
+- 🎓 B.Tech CSE Student
+- 💻 Interested in Web Development
+- ⚛️ Currently learning React
+- 🛠️ Building interactive projects instead of just tutorials
+- 🚀 Exploring full-stack development
+- 🎯 Goal: Become a strong developer through real projects
 
-<td width="33%" align="center">
+---
 
-### 🎮 Dashing Detective
+## 🧰 Tech Stack
 
-Interactive detective mystery game.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
+</p>
 
-</td>
+---
 
-<td width="33%" align="center">
+## 🚀 Featured Projects
+
+### 🕵️ Dashing Detective
+An interactive detective mystery game where players investigate clues, suspects and evidence.
+
+**HTML • CSS • JavaScript**
 
 ### 🌐 LifeGrid
+A productivity/life-management web application designed to organize different areas of everyday life.
 
-A modern life/productivity web application.
-
-</td>
-
-<td width="33%" align="center">
+**HTML • CSS • JavaScript**
 
 ### 📰 Manipulated History
+A news/blogging platform exploring how information can be presented and managed through a web application.
 
-News & blogging platform.
+**HTML • CSS • JavaScript • Node.js • MongoDB**
 
-</td>
+---
 
-</tr>
-</table>
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="./profile/stats.svg" width="49%" />
+  <img src="./profile/languages.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile/graph.svg" width="100%" />
+</p>
 
 ---
 
 ## 🧠 Currently Learning
 
 ```text
-JavaScript        ███████████████░░░  Learning
-React             ███████████░░░░░░░  Learning
-Node.js           ██████████░░░░░░░░  Learning
-MongoDB           ██████████░░░░░░░░  Learning
-Git & GitHub      ███████████████░░░  Building
+HTML/CSS       ████████████████████  Strong
+JavaScript     ███████████████░░░░░  Growing
+React          ████████░░░░░░░░░░░░  Learning
+Node.js        ███████░░░░░░░░░░░░░  Learning
+Express        ██████░░░░░░░░░░░░░░  Learning
+MongoDB        ███████░░░░░░░░░░░░░  Learning
