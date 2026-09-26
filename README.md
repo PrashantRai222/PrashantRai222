@@ -1,72 +1,67 @@
-<div align="center">
-
-# 👋 Hi, I'm Prashant Rai
-
-### CSE Student • Web Developer • Builder
-
-Building things, breaking things, and learning how they work.
-
-</div>
-
----
-
-## ⚡ About Me
-
-- 🎓 B.Tech CSE Student
-- 💻 Interested in Web Development
-- ⚛️ Currently learning React
-- 🛠️ Building interactive projects instead of just tutorials
-- 🚀 Exploring full-stack development
-- 🎯 Goal: Become a strong developer through real projects
-
----
-
-## 🧰 Tech Stack
+<h1 align="center">Hi 👋, I'm Prashant</h1>
+<h3 align="center">A passionate developer who loves building things for the web</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO-SITE.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrashantRai222&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🕵️ Dashing Detective
-An interactive detective mystery game where players investigate clues, suspects and evidence.
-
-**HTML • CSS • JavaScript**
-
-### 🌐 LifeGrid
-A productivity/life-management web application designed to organize different areas of everyday life.
-
-**HTML • CSS • JavaScript**
-
-### 📰 Manipulated History
-A news/blogging platform exploring how information can be presented and managed through a web application.
-
-**HTML • CSS • JavaScript • Node.js • MongoDB**
-
----
-
-## 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" width="49%" />
-  <img src="./profile/languages.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/PrashantRai222/PrashantRai222/main/metrics.stats.svg" alt="GitHub Stats" width="100%" />
 </p>
 
+### 🧠 Most Used Languages
+
 <p align="center">
-  <img src="./profile/graph.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/PrashantRai222/PrashantRai222/main/metrics.languages.svg" alt="Top Languages" width="60%" />
+</p>
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrashantRai222/PrashantRai222/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrashantRai222/PrashantRai222/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/PrashantRai222/PrashantRai222/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🧠 Currently Learning
+### 🛠️ Tech Stack
 
-```text
-HTML/CSS       ████████████████████  Strong
-JavaScript     ███████████████░░░░░  Growing
-React          ████████░░░░░░░░░░░░  Learning
-Node.js        ███████░░░░░░░░░░░░░  Learning
-Express        ██████░░░░░░░░░░░░░░  Learning
-MongoDB        ███████░░░░░░░░░░░░░  Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,cpp" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantRai222&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center"><i>Thanks for stopping by! ⭐ this profile if you found it inspiring.</i></p>
