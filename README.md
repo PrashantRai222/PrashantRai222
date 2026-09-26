@@ -12,7 +12,7 @@
   <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
   </a>
-  <a href="mailto:rai496763@gmail.com">
+  <a href="rai496763@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://YOUR-PORTFOLIO-SITE.com" target="_blank">
