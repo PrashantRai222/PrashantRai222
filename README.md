@@ -26,17 +26,15 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats 
 
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" width="100%" />
-</p>
-
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/PrashantRai222/PrashantRai222/main/metrics.stats.svg" alt="GitHub Stats" width="100%" /> </p> 
+  
 ### 🧠 Most Used Languages
-
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="60%" />
-</p>
+  
+  <p align="center"> 
+    <img src="https://raw.githubusercontent.com/PrashantRai222/PrashantRai222/main/metrics.languages.svg" alt="Top Languages" width="60%" /> </p>
 
 ### 🐍 Contribution Graph
 
